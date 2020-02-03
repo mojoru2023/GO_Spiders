@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c99d942-787e-4fb5-9ab3-ede70c1d6e91" name="Default Changelist" comment="" />
+    <list default="true" id="8c99d942-787e-4fb5-9ab3-ede70c1d6e91" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="GOROOT" path="/usr/local/go1.13.3" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UeXuTSjFrdgdEuEMOzF8J3vfln" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -19,7 +24,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Recoding_go" />
     <property name="settings.editor.selected.configurable" value="go.sdk" />
   </component>
   <component name="RunManager">
@@ -61,6 +66,7 @@
       <updated>1575718256237</updated>
       <workItem from="1575718266486" duration="1984000" />
       <workItem from="1575721223270" duration="1241000" />
+      <workItem from="1575796825724" duration="606000" />
     </task>
     <servers />
   </component>
@@ -72,6 +78,10 @@
       <screen x="0" y="0" width="1366" height="714" />
     </state>
     <state x="177" y="0" key="#go_build_go_s1.go/0.0.1366.714@0.0.1366.714" timestamp="1575722391109" />
+    <state x="470" y="109" key="FileChooserDialogImpl" timestamp="1575798016495">
+      <screen x="0" y="0" width="1366" height="714" />
+    </state>
+    <state x="470" y="109" key="FileChooserDialogImpl/0.0.1366.714@0.0.1366.714" timestamp="1575798016495" />
     <state width="1320" height="188" key="GridCell.Tab.0.bottom" timestamp="1575722470963">
       <screen x="0" y="0" width="1366" height="714" />
     </state>
@@ -92,9 +102,9 @@
       <screen x="0" y="0" width="1366" height="714" />
     </state>
     <state x="221" y="0" key="SettingsEditor/0.0.1366.714@0.0.1366.714" timestamp="1575720665614" />
-    <state x="361" y="218" key="com.intellij.ide.util.TipDialog" timestamp="1575721216840">
+    <state x="361" y="218" key="com.intellij.ide.util.TipDialog" timestamp="1575796824534">
       <screen x="0" y="0" width="1366" height="714" />
     </state>
-    <state x="361" y="218" key="com.intellij.ide.util.TipDialog/0.0.1366.714@0.0.1366.714" timestamp="1575721216840" />
+    <state x="361" y="218" key="com.intellij.ide.util.TipDialog/0.0.1366.714@0.0.1366.714" timestamp="1575796824534" />
   </component>
 </project>
