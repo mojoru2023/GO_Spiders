@@ -12,6 +12,8 @@ import (
     "strings"
 )
 
+
+
 const (
     USERNAME = "root"
     PASSWORD = "123456"
@@ -157,3 +159,16 @@ func InsertSql(movieData MovieData) bool {
     return true
 
 }
+
+#  最终插入数据库的是一个结构体，结构体里面是字符串
+
+
+create table movie  (id int not null primary key auto_increment,
+# Title      text,
+# Director   text,
+# Picture    text,
+# Actor      text,
+# Year       text,
+# Score      text,
+# Quote      text
+# ) engine=InnoDB  charset=utf8;
