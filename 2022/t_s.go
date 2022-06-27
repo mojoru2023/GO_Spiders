@@ -172,3 +172,24 @@ create table movie  (id int not null primary key auto_increment,
 # Score      text,
 # Quote      text
 # ) engine=InnoDB  charset=utf8;
+
+
+# 结构体struct－－－>指针－－>指针取值插入数据库
+
+func main() {
+	InitDB()
+	c := &MovieData{
+		Title:    "sda",
+		Director: "sda",
+		Picture:  "sda",
+		Actor:    "sda",
+		Year:     "sda",
+		Score:    "sda",
+		Quote:    "sda",
+	}
+	result := *c
+	InsertSql(result)
+
+}
+
+
